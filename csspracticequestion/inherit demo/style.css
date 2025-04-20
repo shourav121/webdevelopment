@@ -1,0 +1,14 @@
+div{
+    background-color: cyan;
+}
+
+input{
+    background-color: cyan;
+}
+
+button{
+    background-color: cyan;
+}
+button:hover{
+    background-color: blue;
+}

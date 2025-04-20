@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+}
+
+#container{
+    width: 80%;
+    height: 300px;
+    border: 2px solid black;
+    margin: 10px auto;
+    background-color: azure;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-content: flex-start;
+
+}
+
+#vv{
+    flex-basis: 100px;
+    flex-grow: 10;
+}
+#iii{
+    flex-grow: 5;
+}
+
+#container div{
+    height: 100px;
+    width: 300px;
+    text-align: center;
+    color: white;
+
+}

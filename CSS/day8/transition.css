@@ -1,0 +1,14 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: purple;
+    margin-top: 20px;
+    transition: margin-left 5s ease-in 0.1s;
+    
+}
+
+div:hover{
+    margin-left: 800px;
+    background-color: red;
+    
+}

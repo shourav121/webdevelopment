@@ -1,0 +1,13 @@
+.container{
+    height: 300px;
+    width: 600px;
+    background-color: black;
+    display: grid;
+    grid-template-rows: repeat(5, 1fr);
+}
+.tem{
+    background-color: aqua;
+    
+    border: 2px solid black;
+    text-align: center;
+}

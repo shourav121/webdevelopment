@@ -1,0 +1,27 @@
+h1{
+    background-color: yellow;
+    border: 1px solid black;
+}
+
+@media(width: 650px){
+    h1{background-color: red;}
+}
+
+@media(min-width: 700px){
+    h1   {
+        background-color: green;
+    }
+}
+
+@media(max-width: 350px){
+    h1{
+        background-color: rgb(5, 2, 189);
+    }
+}
+
+@media (orientation:landscape){
+    h1{
+        color: rebeccapurple;
+        background-color: gold;
+    }
+}

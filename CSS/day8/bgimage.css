@@ -1,0 +1,8 @@
+div{
+    height: 500px;
+    width: 750px;
+    margin: 10px auto;
+    background-color: rgb(182, 236, 111);
+    background-image: url("lighthouse-2372461_1920.jpg");
+    background-size: cover;
+}

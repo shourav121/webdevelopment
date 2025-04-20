@@ -1,0 +1,23 @@
+div{
+    width: 350px;
+    height: 250px;
+    background-color: burlywood;
+    border: 5px solid purple;
+    border-radius: 10.5px;
+    margin: 20px;
+    
+}
+
+h1{
+    border: 3.2px solid rgb(221, 126, 126);
+    border-radius: 18.6px;
+    padding-left: 220px;
+}
+
+button{
+    background-color: rgb(107, 233, 241);
+    border-radius: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border: 3.6px solid black;
+}

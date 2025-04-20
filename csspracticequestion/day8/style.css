@@ -1,0 +1,41 @@
+#box1{
+    transition: 2s ease-in 0.2s;
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+}
+
+#box1:hover{
+    width: 600px;
+}
+
+#box2{
+    width: 100px;
+    height: 100px;
+    background: red;
+    transform: translate(200px, 200px) rotate(90deg) ;
+}
+
+#box3{
+    width: 100px;
+height: 100px;
+background: lightblue;
+transform: skewX(20deg);
+}
+
+#box4 {
+    width: 100px;
+    height: 100px;
+    background: lightgreen;
+    box-shadow: 2px 2px 5px green;
+    }
+    
+   #myPic {
+        width: 200px;
+        height: 200px;
+        background: rgb(230, 180, 188);
+        
+        background-image: url("lighthouse-2372461_1920.jpg");
+        opacity: 50%;
+        background-size: cover;
+        }
