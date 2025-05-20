@@ -6,6 +6,7 @@ const port=8080;
 app.get("/register",(req,res)=>{
     
     let{user, password}= req.query;
+    
     res.send(`standard get response.welcome  ${user} ${password}!`);
 });
 
